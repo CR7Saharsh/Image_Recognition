@@ -1,9 +1,7 @@
-So i am uploading 3 files for this assignment.
+So i am uploading 2 files for this assignment.
 
 The First file that is the Cifar10 which is an ipynb file which contains the preliminary step i.e the code for creating the model.
 
 The Second file that is the Cifar_10_funtion contains the function that i created using the saved model to predict output for new images.
-
-I have also attatched the model file with the name "cifar10dense101.h5" to add to the function file for prediction purposes.
 
 I achieved an accuracy of 95% with use of DenseNet101.
